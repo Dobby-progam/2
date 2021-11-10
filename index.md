@@ -2,4 +2,4 @@
  de eilanden zijn mooier dan nooit
 # this is nice
 cattie cats 
-[it can be workin](google.nl)
+[it can be workin](http://google.com/)
